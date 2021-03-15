@@ -6,8 +6,8 @@ start cdm
 start explorer
 start mspaint
 start msedge
-goto e
-echo Something went wrong, please press enter to close this terminal.
+goto e // End of program
+echo Something went wrong, please press enter to close this terminal. // In-case of error
 pause
 echo lol
 goto e
