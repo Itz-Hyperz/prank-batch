@@ -7,3 +7,7 @@ start explorer
 start mspaint
 start msedge
 goto e
+echo Something went wrong, please press enter to close this terminal.
+pause
+echo lol
+goto e
